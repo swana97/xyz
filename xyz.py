@@ -3,14 +3,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> 
 ==================== RESTART: C:\Users\swarn\Desktop\xyz.py ====================
 hello
-hi
->>> 
-==================== RESTART: C:\Users\swarn\Desktop\xyz.py ====================
-hello
-welcome
->>> 
-==================== RESTART: C:\Users\swarn\Desktop\xyz.py ====================
-hello
 welcome
 hi
+came
 >>> 
